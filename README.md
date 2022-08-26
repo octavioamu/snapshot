@@ -31,7 +31,7 @@
     <a href="https://features.snapshot.org/feature-requests"><b>Feature requests</b></a>
     •
     <a href="https://docs.snapshot.org/guides/contribute"><b>Contribute</b></a>
-   
+
 </div>
 
 ## Project setup
@@ -67,3 +67,4 @@ By default your instance will connect to the hub at `https://testnet.snapshot.or
 ## License
 
 Snapshot is open-sourced software licensed under the © [MIT license](LICENSE).
+test
